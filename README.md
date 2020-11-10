@@ -1,3 +1,5 @@
+![Docker](https://github.com/linkyard/docker-helm-yaml/workflows/Docker/badge.svg)
+
 # docker-helm-yaml
 
 Docker image the contains kubernetes helm, git and utils for YAML and JSON processing.
