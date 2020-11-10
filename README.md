@@ -4,7 +4,7 @@ Docker image the contains kubernetes helm, git and utils for YAML and JSON proce
 
 ## Contains
 
-- helm
+- helm (version 2.17.0)
 - git
 - jq
 - spruce
@@ -15,4 +15,4 @@ Docker image the contains kubernetes helm, git and utils for YAML and JSON proce
 
 ## Usage
 
-`docker run linkyard/helm-yaml`
+`docker run ghcr.io/linkyard/helm-yaml`
