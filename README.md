@@ -6,7 +6,7 @@ Docker image the contains kubernetes helm, git and utils for YAML and JSON proce
 
 ## Contains
 
-- helm (version 2.17.0)
+- helm (v3.4.2)
 - git
 - jq
 - spruce

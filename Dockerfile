@@ -2,9 +2,9 @@ FROM alpine:3.12 as build
 
 RUN apk add --update --no-cache ca-certificates git
 
-ENV VERSION=v2.17.0
+ENV VERSION=v3.4.2
 ENV FILENAME=helm-${VERSION}-linux-amd64.tar.gz
-ENV SHA256SUM=f3bec3c7c55f6a9eb9e6586b8c503f370af92fe987fcbf741f37707606d70296
+ENV SHA256SUM=cacde7768420dd41111a4630e047c231afa01f67e49cc0c6429563e024da4b98
 
 WORKDIR /
 
